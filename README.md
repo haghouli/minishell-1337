@@ -2,6 +2,10 @@
 ![Alt text](/images/prompt.jpg)
 minishell is about creating a mini bash like.
 
+## team members
+- haghouli(me)
+- mohcin tadlaoui [GitHub Pages](https://pages.github.com/).
+
 ## Description
 42 Minishell is a simple Unix shell implementation, created as part of the 42 network curriculum. It aims to mimic basic shell functionalities (such as `echo`, `pwd`, `cd`, `exit`, etc.) while offering a learning experience in the areas of system calls, process management, and file descriptors.
 
