@@ -20,7 +20,7 @@ minishell is about creating a mini bash like.
 
 ## Installation
 
-To run the 42 minishell, follow these steps:
+To run minishell, follow these steps:
 
 ### Prerequisites:
 - A Linux or macOS system.
