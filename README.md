@@ -29,7 +29,7 @@ To run minishell, follow these steps:
 
 ### Clone the repository:
 ```bash
-git https://github.com/haghouli/minishell-1337.git
+git clone https://github.com/haghouli/minishell-1337.git
 cd minishell-1337
 make
 ./minishell
